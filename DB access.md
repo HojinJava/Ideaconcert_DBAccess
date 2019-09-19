@@ -196,7 +196,7 @@ spring.datasource.password=test
 >
 > 포트 : 3306
 
-![6](./mysql x/heidi sql/6.PNG)
+![6](./mysql%20x/heidi%20sql/6.PNG)
 
 
 
