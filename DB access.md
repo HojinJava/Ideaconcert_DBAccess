@@ -28,7 +28,7 @@
 [2. MySQL이 설치 및 연결되어 있을 경우 DB 접속방법](#2-mysql이-설치-및-연결되어-있을-경우-db-접속방법)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2-1. cmd(명령 프롬프트) 창으로 DB 접속하기](#2-1-cmd명령-프롬프트-창으로-db-접속하기)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2-2. 이클립스에서 DB 연결하기](#2-2-이클립스에서-db-연결하기)  
-[3. MySQL이 설치 및 연결되어 있지 않을 경우 DB 접속방법](#3-mysql이-설치-및-연결되어-있지-않을-경우-db-접속방법)
+[3. MySQL이 설치 및 연결되어 있지 않을 경우 DB 접속방법](#3-mysql이-설치-및-연결되어-있지-않을-경우-db-접속방법)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3-1. Heidi SQL 설치 및 DB 연결방법](#3-1-heidi-sql-설치-및-db-연결방법)  
 
 
