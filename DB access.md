@@ -83,7 +83,7 @@
 1. cmd(명령 프롬프트)창을 열어주세요. (**0-1. cmd(명령 프롬프트)창 열기** 참조)
 2. cmd창에 ***mysql -h 59.13.225.181 -u test -p*** 를 입력한 후 엔터를 누릅니다.
 
-![1](/mysql o/cmd/1.PNG)
+![1]({{"/mysql o/cmd/1.PNG"|relative_url}})
 
 3. 아래쪽에 Enter password: 가 뜨면 ***test*** 라고 입력한 후 엔터를 누릅니다.
 
