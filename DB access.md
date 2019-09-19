@@ -36,11 +36,11 @@
 
 1. 왼쪽 하단 시작 화면에서 **웹 및 Windows 검색** 탭에 **cmd** 를 검색합니다.
 
-![1](.\1.PNG)
+![1](\1.PNG)
 
 2. **명령 프롬프트**를 클릭합니다.
 
-![2](.\2.PNG)
+![2](\2.PNG)
 
 
 
@@ -54,7 +54,7 @@
 
    아래와 같이 버전이 뜰 경우 mysql 설치되어 있으며, mysql 환경변수가 설정되어 있다는 것입니다. **1-1. cmd(명령 프롬프트) 창으로 DB 접속하기** 를 보고 DB에 접속해 주세요.
 
-![3](.\3.PNG)
+![3](\3.PNG)
 
 만약, **'mysql'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치 파일이 아닙니다.** 라는 문구가 뜰 경우 mysql 설치 및 환경변수 설정 여부를 확인해 주세요.
 
@@ -83,17 +83,17 @@
 1. cmd(명령 프롬프트)창을 열어주세요. (**0-1. cmd(명령 프롬프트)창 열기** 참조)
 2. cmd창에 ***mysql -h 59.13.225.181 -u test -p*** 를 입력한 후 엔터를 누릅니다.
 
-![1](.\mysql o\cmd\1.PNG)
+![1](\mysql o\cmd\1.PNG)
 
 3. 아래쪽에 Enter password: 가 뜨면 ***test*** 라고 입력한 후 엔터를 누릅니다.
 
-![2](.\mysql o\cmd\2.PNG)
+![2](\mysql o\cmd\2.PNG)
 
 4. 아래와 같은 화면이 뜨고, > 이전의 문구가 mysql로 바뀌어 있으면 정상적으로 DB에 접속된 것입니다.
 
    쿼리문(명령문)을 입력해 DB의 정보를 확인할 수 있습니다.
 
-![3](.\mysql o\cmd\3.PNG)
+![3](\mysql o\cmd\3.PNG)
 
 
 
@@ -120,13 +120,13 @@
 
    해당 파일이 보이지 않을 경우, resources(mybatis.mapper 파일이 있는 곳)에 들어가 보세요.
 
-![0](.\mysql o\eclipse\0.PNG)
+![0](\mysql o\eclipse\0.PNG)
 
 
 
 2. 아래 사진과 같이 **url, username, password**를 설정해 주세요. (사진 아래 코드 참조)
 
-![1](.\mysql o\eclipse\1.PNG)
+![1](\mysql o\eclipse\1.PNG)
 
 ```properties
 spring.datasource.url=jdbc:mysql://59.13.225.181:3306/bitnami_redmine?serverTimezone=UTC
@@ -156,9 +156,9 @@ spring.datasource.password=test
 
 2. 다음 화면에서 **Installer, 32/64 bit cobined** 를 클릭해 파일을 다운로드받아주세요.
 
-![1](.\mysql x\heidi sql\1.PNG)
+![1](\mysql x\heidi sql\1.PNG)
 
-![2](.\mysql x\heidi sql\2.PNG)
+![2](\mysql x\heidi sql\2.PNG)
 
 다운로드받은 파일의 모습입니다.
 
@@ -170,9 +170,9 @@ spring.datasource.password=test
 
 4. Ok 클릭하고 계속 next를 눌러 주세요. 따로 건드리지 않고 설치하시면 됩니다.
 
-![3](.\mysql x\heidi sql\3.PNG)
+![3](\mysql x\heidi sql\3.PNG)
 
-![4](.\mysql x\heidi sql\4.PNG)
+![4](\mysql x\heidi sql\4.PNG)
 
 
 
@@ -182,7 +182,7 @@ spring.datasource.password=test
 
 1. 설치가 완료되면 프로그램을 실행시켜 주세요. 아래의 화면이 나올 경우 ***신규***  버튼을 눌러 주세요.
 
-![5](.\mysql x\heidi sql\5.PNG)
+![5](\mysql x\heidi sql\5.PNG)
 
 
 
@@ -196,29 +196,29 @@ spring.datasource.password=test
 >
 > 포트 : 3306
 
-![6](.\mysql x\heidi sql\6.PNG)
+![6](\mysql x\heidi sql\6.PNG)
 
 
 
 - 왼쪽의 세션 이름을 우클릭해 이름을 바꿀 수도 있습니다.
 
-![7](.\mysql x\heidi sql\7.PNG)
+![7](\mysql x\heidi sql\7.PNG)
 
 
 
 3. 왼쪽 아래의 ***저장***  버튼을 클릭합니다.
 
-![8](.\mysql x\heidi sql\8.PNG)
+![8](\mysql x\heidi sql\8.PNG)
 
 
 
 4. 저장되었다면 ***열기***  버튼을 클릭해 데이터베이스를 볼 수 있습니다.
 
-![9](.\mysql x\heidi sql\9.PNG)
+![9](\mysql x\heidi sql\9.PNG)
 
 
 
-![10](.\mysql x\heidi sql\10.PNG)
+![10](\mysql x\heidi sql\10.PNG)
 
 > 열기 클릭 후 DB에 접속한 모습
 
